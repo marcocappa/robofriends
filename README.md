@@ -1,2 +1,3 @@
 # robofriends
-just simple react app to show robocards
+
+Just simple some component in React with robocards!
